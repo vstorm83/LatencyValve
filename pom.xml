@@ -18,8 +18,7 @@
 
   <dependencies>
     <dependency>
-	<groupId>org.
-adfapache.tomcat</groupId>
+	<groupId>org.apache.tomcat</groupId>
 	<artifactId>catalina</artifactId>
 	<version>6.0.33</version>
 	<scope>provided</scope>
